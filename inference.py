@@ -206,6 +206,6 @@ evaluate_first_100(
     data_folder='./data/',
     data_name='LEVIR_CC_5_cap_per_img_5_min_word_freq',
     split='TEST', 
-    checkpoint_path='/content/RSICC/models_checkpoint/BEST_checkpoint_resnet101_MCCFormers_diff_as_Q_trans.pth.tar',  # <-- BURAYI KENDİ MODEL YOLUNUZLA DEĞİŞTİRİN
+    checkpoint_path='/content/RSICC2/models_checkpoint/BEST_checkpoint_resnet101_MCCFormers_diff_as_Q_trans.pth.tar',  # <-- BURAYI KENDİ MODEL YOLUNUZLA DEĞİŞTİRİN
     beam_size=1
 )
